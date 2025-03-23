@@ -70,4 +70,4 @@ To view or contribute to the Food Munch project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MaheshVeeraboina/FoodMunch.git
+   git clone https://github.com/MaheshVeeraboina/Food-Munch-
